@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+repeat task.wait() until shared.GuiLibrary
+pcall(loadstring(readfile("vape/CustomModules/chattags.lua")))
+pcall(loadstring(readfile("vape/CustomModules/6872274481.lua")))
+pcall(loadstring(readfile("vape/CustomModules/profile.lua")))
